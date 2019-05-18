@@ -1,3 +1,3 @@
 
 
-from .controller import Filter
+from .controller import Filter, attach, detach
